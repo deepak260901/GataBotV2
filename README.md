@@ -38,7 +38,7 @@
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/85xI8WFMIUY)
 --------- 
- 
+  
 ### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
 
 *  Conexión estable de Internet
