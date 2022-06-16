@@ -38,6 +38,8 @@
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/85xI8WFMIUY)
 --------- 
+
+* then Deploy The Bot From [Here]((https://heroku.com/deploy?template=https://github.com/deepak260901/GataBotV2)
   
 ### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
 
